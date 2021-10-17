@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @TouhidurTomal
+- 👋 Hi, I’m @Touhidur Rahman Khan Tamal
 - 👀 I’m interested in Programing languages such as C, C++, Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 reach me @ https://www.facebook.com/touhidurtamal.98/
 
 <!---
