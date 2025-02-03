@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Touhidur Rahman Khan Tamal
-- 👀 I’m interested in Programing languages such as C, C++, Java
-- 🌱 I’m currently learning Dart, Flutter
+- 👀 I’m interested in Programing languages such as C, C++, Dart, Java, python
+- 🌱 I’m currently Working with Dart, Flutter
 - 📫 reach me @ https://www.facebook.com/touhidurtamal.98/
 
 <!---
